@@ -19,3 +19,9 @@
 - degree: Master of Science
 - major: Computer Engineering
 
+#### Worcester Polytechnic Institute
+
+| degree | Graduate Certificate |
+| major | Engineering |
+
+---
