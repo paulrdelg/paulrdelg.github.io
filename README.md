@@ -21,6 +21,10 @@
 | major | Electrical Engineering |
 | start | 2013 Fall |
 | end | 2016 Spring |
+| coursework |
+
+- (A-) Embedded Systems Design Laboratory (Capstone)
+- (B+) Introduction to Communication Systems |
 
 #### Graduate
 
@@ -30,7 +34,11 @@
 | start | 2018 Fall |
 | end | 2022 Summer |
 | minor | Computer Systems Engineering, Graduate Certificate |
-| coursework | TBD |
+
+coursework:
+
+- (B+) Hardware/Software Design of Embedded Systems
+- (A-) Embedded Systems and Machine Learning
 
 #### Worcester Polytechnic Institute
 
@@ -47,41 +55,45 @@
 | Company | Qorvo Incorporated |
 | start | 2021 September |
 | end | current |
-| o Generated mode table of several products for testbench simulation and verification modeling
-o Scripted VBA macros for the customer from Register Map Details retaining single-source of truth
-o Bore ownership revamping process software with best practices, transparency, and maintainability
-o Automate manual processes with PowerShell scripting
-o Review and fix mobile RF Front-End (RFFE) register map bitfield descriptions and mismatch from block diagrams |
+
+- Generated mode table of several products for testbench simulation and verification modeling
+- Scripted VBA macros for the customer from Register Map Details retaining single-source of truth
+- Bore ownership revamping process software with best practices, transparency, and maintainability
+- Automate manual processes with PowerShell scripting
+- Review and fix mobile RF Front-End (RFFE) register map bitfield descriptions and mismatch from block diagrams
 
 #### Circuit Design Engineer
 
 | Company | Northrop Grumman Corporation |
 | start | 2018 July |
 | end | 2021 August |
-| o Responsible FPGA engineer for designs in several production systems specialized in Command and Data Handling
-o Gathered System-level requirements, cross-referenced Board-level drawings, and amended Chip requirements
-o Documented Chip Specification including design explanation, flow diagrams, and functional block illustrations
-o Incorporated automatic bug ticketing system tool (SVN TRAC) to replace slow Excel file-sharing practices
-o Automated design process for recreation of compilation (QuestaSim), synthesis (Synplify), and place-and-route
-o Scripted generation of reports for linting, Questa Formal, clock-domain-crossing, and logic equivalency (OneSpin)
-o Assisted Verification Engineer with coding test cases in standardized UVMF testbench
-o Modelled system in software (ISO C++17) for vector matching of functional blocks using System Verilog DPI |
+
+- Responsible FPGA engineer for designs in several production systems specialized in Command and Data Handling
+- Gathered System-level requirements, cross-referenced Board-level drawings, and amended Chip requirements
+- Documented Chip Specification including design explanation, flow diagrams, and functional block illustrations
+- Incorporated automatic bug ticketing system tool (SVN TRAC) to replace slow Excel file-sharing practices
+- Automated design process for recreation of compilation (QuestaSim), synthesis (Synplify), and place-and-route
+- Scripted generation of reports for linting, Questa Formal, clock-domain-crossing, and logic equivalency (OneSpin)
+- Assisted Verification Engineer with coding test cases in standardized UVMF testbench
+- Modelled system in software (ISO C++17) for vector matching of functional blocks using System Verilog DPI
 
 #### Technical Services Engineer
 
 | Company | Northrop Grumman Corporation |
 | start | 2016 July |
 | end | 2018 July |
-| o Supported Product Lifecycle Management (PLM) of various programs using Dassault ENOVIA web system
-o Created custom reports with TCL scripting Matrix Query Language (MQL) custom-filtered commands
-o Planned test matrices from Software Engineer’s concepts for successful Apps Engineer deployment |
+
+- Supported Product Lifecycle Management (PLM) of various programs using Dassault ENOVIA web system
+- Created custom reports with TCL scripting Matrix Query Language (MQL) custom-filtered commands
+- Planned test matrices from Software Engineer’s concepts for successful Apps Engineer deployment
 
 #### Summer Student Technician
 
 | Company | Redondo Optics Incorporated |
 | start | 2015 May |
 | end | 2015 September |
-| o Debugged and repaired issues with circuit boards tested with a multimeter (short circuit test) to identify hardware failure |
+
+- Debugged and repaired issues with circuit boards tested with a multimeter (short circuit test) to identify hardware failure
 
 #### Computer Store Student Worker
 
@@ -97,34 +109,44 @@ o Planned test matrices from Software Engineer’s concepts for successful Apps 
 
 ### Certifications
 
-5G Introductory-Level Certificate
+#### 5G Introductory-Level Certificate
+
 • Qualcomm Wireless Academy
 • April 2025
-Linux Essentials Certification
+
+#### Linux Essentials Certification
+
 • Linux Professional Institute
 • lpi.org/v/LPI000496684/6hg5ysv497
 • August 2021
-First Aid, CPR, AED Certification
-•
-•
+
+#### First Aid, CPR, AED Certification
+
 Red Cross
 October 2024
 
 ### Awards
 
-Naval Horizons Award
+#### Naval Horizons Award
+
 • Awarded: January 2021
 o Reported on the Department of Navy research submission reviewed by the American Society of Engineering (ASEE)
-Bravo Award
+
+#### Bravo Award
+
 • Awarded: October 2018
 o Sole software support for a successful customer demo (Sagittarius) by filling the role on short notice (<30 days)
 o Programmed inherited C# software GUI application changes needed by hardware for the latest demo phase
 o Implemented requirement changes in real-time with multiple teams during integration and testing in a lab
 environment
-Best Hardware Hackathon Award
+
+#### Best Hardware Hackathon Award
+
 • Awarded: May 2017
 o Tied for Best Use of IBM Bluemix & Watson Platform API Hack at SiliconHacks
-Adobe Challenge Hackathon Award
+
+#### Adobe Challenge Hackathon Award
+
 • Awarded: April 2017
 o Led team using Android Firebase integration; taught teammates web programming at FresnoHacks
 
