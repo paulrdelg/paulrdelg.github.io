@@ -111,44 +111,48 @@ coursework:
 
 #### 5G Introductory-Level Certificate
 
-• Qualcomm Wireless Academy
-• April 2025
+- Qualcomm Wireless Academy
+- April 2025
 
 #### Linux Essentials Certification
 
-• Linux Professional Institute
-• lpi.org/v/LPI000496684/6hg5ysv497
-• August 2021
+- Linux Professional Institute
+- lpi.org/v/LPI000496684/6hg5ysv497
+- August 2021
 
 #### First Aid, CPR, AED Certification
 
-Red Cross
-October 2024
+- Red Cross
+- October 2024
+
+#### Mentor VHDL Introduction Certification
+
+- Mentor, A Siemens Business
+- November 02, 2018
 
 ### Awards
 
 #### Naval Horizons Award
 
-• Awarded: January 2021
-o Reported on the Department of Navy research submission reviewed by the American Society of Engineering (ASEE)
+- Awarded: January 2021
+  - Reported on the Department of Navy research submission reviewed by the American Society of Engineering (ASEE)
 
 #### Bravo Award
 
-• Awarded: October 2018
-o Sole software support for a successful customer demo (Sagittarius) by filling the role on short notice (<30 days)
-o Programmed inherited C# software GUI application changes needed by hardware for the latest demo phase
-o Implemented requirement changes in real-time with multiple teams during integration and testing in a lab
-environment
+- Awarded: October 10, 2018
+  - Sole software support for a successful customer demo (Sagittarius) by filling the role on short notice (<30 days)
+  - Programmed inherited C# software GUI application changes needed by hardware for the latest demo phase
+  - Implemented requirement changes in real-time with multiple teams during integration and testing in a lab environment
 
 #### Best Hardware Hackathon Award
 
-• Awarded: May 2017
-o Tied for Best Use of IBM Bluemix & Watson Platform API Hack at SiliconHacks
+- Awarded: May 2017
+  - Tied for Best Use of IBM Bluemix & Watson Platform API Hack at SiliconHacks
 
 #### Adobe Challenge Hackathon Award
 
-• Awarded: April 2017
-o Led team using Android Firebase integration; taught teammates web programming at FresnoHacks
+- Awarded: April 2017
+  - Led team using Android Firebase integration; taught teammates web programming at FresnoHacks
 
 ### Skills
 
@@ -170,4 +174,15 @@ o Led team using Android Firebase integration; taught teammates web programming 
 
 ## Projects
 
-### Home Network
+### Home Network Lab
+
+#### Objective
+
+- previous system was typical 19" server racks, which were too big and bulky for basic homelab needs
+- power system needs to modular: all systems should take in DC power supplies inputs instead of AC-to-DC converters
+- common power supplies with same voltage need to be unified to reduce number of total AC outlets
+- power supplies should have uninterrupted power supplies
+
+#### Solution
+
+- systems sold include 4U server chasis, Uinterrupted Power Supplies
