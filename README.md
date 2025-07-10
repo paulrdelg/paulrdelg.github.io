@@ -21,10 +21,9 @@
 | major | Electrical Engineering |
 | start | 2013 Fall |
 | end | 2016 Spring |
-| coursework |
 
 - (A-) Embedded Systems Design Laboratory (Capstone)
-- (B+) Introduction to Communication Systems |
+- (B+) Introduction to Communication Systems
 
 #### Graduate
 
@@ -186,3 +185,7 @@ coursework:
 #### Solution
 
 - systems sold include 4U server chasis, Uinterrupted Power Supplies
+
+#### Current
+
+![Data](files/network.webp)
