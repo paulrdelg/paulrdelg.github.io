@@ -84,7 +84,7 @@ coursework:
 
 - Supported Product Lifecycle Management (PLM) of various programs using Dassault ENOVIA web system
 - Created custom reports with TCL scripting Matrix Query Language (MQL) custom-filtered commands
-- Planned test matrices from Software Engineer’s concepts for successful Apps Engineer deployment
+- Planned test matrices from Software Engineer concepts for successful Apps Engineer deployment
 
 #### Summer Student Technician
 
@@ -188,4 +188,4 @@ coursework:
 
 #### Current
 
-![Data](files/network.webp)
+![Data](files/network.png)
