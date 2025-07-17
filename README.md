@@ -189,3 +189,5 @@ coursework:
 #### Current
 
 ![Data](files/network.png)
+
+![Power](projects/homelab/power.png)
