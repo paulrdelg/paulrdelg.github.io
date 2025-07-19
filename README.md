@@ -6,24 +6,13 @@
 
 ### Academics
 
-#### Junior/Community College
+#### Worcester Polytechnic Institute
 
-| instutition | Los Angeles Harbor College |
-| degree | none |
-| major | transferred |
-| start | 2010 Summer |
-| end | 2013 Spring |
-
-#### Undergraduate
-
-| instutition | University of Southern California |
-| degree | Bachelor of Science |
-| major | Electrical Engineering |
-| start | 2013 Fall |
-| end | 2016 Spring |
-
-- (A-) Embedded Systems Design Laboratory (Capstone)
-- (B+) Introduction to Communication Systems
+| instutition | Worcester Polytechnic Institute |
+| degree | Graduate Certificate |
+| major | Engineering |
+| start | 2025 Fall |
+| end | 2030 |
 
 #### Graduate
 
@@ -39,13 +28,26 @@ coursework:
 - (B+) Hardware/Software Design of Embedded Systems
 - (A-) Embedded Systems and Machine Learning
 
-#### Worcester Polytechnic Institute
+#### Undergraduate
 
-| instutition | Worcester Polytechnic Institute |
-| degree | Graduate Certificate |
-| major | Engineering |
-| start | 2025 Fall |
-| end | 2022 Summer |
+| instutition | University of Southern California |
+| degree | Bachelor of Science |
+| major | Electrical Engineering |
+| start | 2013 Fall |
+| end | 2016 Spring |
+
+coursework:
+
+- (A-) Embedded Systems Design Laboratory (Capstone)
+- (B+) Introduction to Communication Systems
+
+#### Junior/Community College
+
+| instutition | Los Angeles Harbor College |
+| degree | none |
+| major | transferred |
+| start | 2010 Summer |
+| end | 2013 Spring |
 
 ### Professional Experience
 
