@@ -9,14 +9,16 @@
 #### Worcester Polytechnic Institute
 
 | instutition | Worcester Polytechnic Institute |
+| --- | --- |
 | degree | Graduate Certificate |
-| major | Engineering |
+| major | Robotics Engineering |
 | start | 2025 Fall |
-| end | 2030 |
+| end | withdrew end of Spring 2026 |
 
 #### Graduate
 
 | instutition | Colorado State University |
+| --- | --- |
 | degree | Master of Science |
 | major | Computer Engineering |
 | start | 2018 Fall |
@@ -31,19 +33,16 @@ coursework:
 #### Undergraduate
 
 | instutition | University of Southern California |
+| --- | --- |
 | degree | Bachelor of Science |
 | major | Electrical Engineering |
 | start | 2013 Fall |
 | end | 2016 Spring |
 
-coursework:
-
-- (A-) Embedded Systems Design Laboratory (Capstone)
-- (B+) Introduction to Communication Systems
-
 #### Junior/Community College
 
 | instutition | Los Angeles Harbor College |
+| --- | --- |
 | degree | none |
 | major | transferred |
 | start | 2010 Summer |
@@ -51,11 +50,25 @@ coursework:
 
 ### Professional Experience
 
+#### FPGA/Firmware Engineer
+
+| Company | \<Confidential\> |
+| --- | --- |
+| start | 2025 September |
+| end | current |
+
+- Created new hardware plans from scratch for new Quantum Sensing prototype
+- Documented PDR content (diagrams, schematics, requirements, functional procedure) including FPGA selection
+- Coded VHDL-2019 source files using Xilinx Vivado IP and custom state-machines
+- Designed UVM 3.1 testbench from scratch for Firmware team without prior reuse
+- Developed radiation-tolerant Time & Frequency Processor on Lattice Certus-NX using Radiant Design software
+
 #### CMOS Digital Systems Engineer
 
 | Company | Qorvo Incorporated |
+| --- | --- |
 | start | 2021 September |
-| end | current |
+| end | 2025 September |
 
 - Generated mode table of several products for testbench simulation and verification modeling
 - Scripted VBA macros for the customer from Register Map Details retaining single-source of truth
@@ -66,6 +79,7 @@ coursework:
 #### Circuit Design Engineer
 
 | Company | Northrop Grumman Corporation |
+| --- | --- |
 | start | 2018 July |
 | end | 2021 August |
 
@@ -81,6 +95,7 @@ coursework:
 #### Technical Services Engineer
 
 | Company | Northrop Grumman Corporation |
+| --- | --- |
 | start | 2016 July |
 | end | 2018 July |
 
@@ -91,6 +106,7 @@ coursework:
 #### Summer Student Technician
 
 | Company | Redondo Optics Incorporated |
+| --- | --- |
 | start | 2015 May |
 | end | 2015 September |
 
@@ -99,12 +115,14 @@ coursework:
 #### Computer Store Student Worker
 
 | Company | University of Southern California Bookstore |
+| --- | --- |
 | start | 2013 |
 | end | 2016 |
 
 #### Math Tutor
 
 | Company | Private |
+| --- | --- |
 | start | 2012 |
 | end | 2013 |
 
@@ -172,9 +190,3 @@ coursework:
 - Portuguese (~B1/B2 level)
 
 ---
-
-## Projects
-
-### Home Network Lab
-
-This is my [home network](https://github.com/paulrdelg/homelabnetwork) lab project.
